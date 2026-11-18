@@ -17,7 +17,7 @@ La lógica de negocio original no fue modificada.
 ## Tecnologías y versiones
 
 - Python: 3.8 o superior.
-- Versión utilizada para la verificación: Python 3.13.5.
+- Versión utilizada para la verificación: Python 3.12.10.
 - Framework: unittest (biblioteca estándar de Python).
 
 ## Archivos

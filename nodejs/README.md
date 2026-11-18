@@ -18,7 +18,7 @@ La lógica de negocio original no fue modificada.
 
 - Lenguaje: JavaScript.
 - Node.js: versión 18 o superior.
-- Versión utilizada para la verificación: Node.js 22.16.0.
+- Versión utilizada para la verificación: Node.js 20.12.2.
 - Framework: node:test (integrado en Node.js).
 - Aserciones: node:assert/strict.
 
