@@ -100,3 +100,25 @@ numérica para verificar los cálculos financieros.
 
 La cobertura corresponde a los escenarios funcionales,
 no a un porcentaje medido de líneas de código.
+
+## Evidencia de ejecución
+
+Entorno de ejecución:
+
+- Sistema operativo: Windows
+- Node.js: 20.12.2
+- Framework: node:test
+
+Resultados obtenidos:
+
+- Pruebas ejecutadas: 12
+- Pruebas aprobadas: 12
+- Pruebas fallidas: 0
+
+Resultado de la terminal:
+
+    tests 12
+    pass 12
+    fail 0
+    cancelled 0
+    skipped 0

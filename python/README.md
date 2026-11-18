@@ -101,3 +101,23 @@ la conservación del inventario ante operaciones fallidas.
 
 La cobertura descrita corresponde a escenarios funcionales,
 no a un porcentaje medido de líneas de código.
+
+## Evidencia de ejecución
+
+Entorno de ejecución:
+
+- Sistema operativo: Windows
+- Python: 3.12.10
+- Framework: unittest
+
+Resultados obtenidos:
+
+- Pruebas ejecutadas: 12
+- Pruebas aprobadas: 12
+- Pruebas fallidas: 0
+
+Resultado de la terminal:
+
+    Ran 12 tests in 0.002s
+
+    OK
